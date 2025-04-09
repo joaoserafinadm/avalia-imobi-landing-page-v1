@@ -45,9 +45,9 @@ export default function Page02() {
                         </h4>
                     </div>
                     <div className="col-12 col-lg-8 d-flex justify-content-center align-items-center mb-5">
-                        <button className={`${styles.outlineButton2} border-rounded  scaleAnimation`}>
+                        <a className={`${styles.outlineButton2} border-rounded  scaleAnimation`} href="https://app.avaliaimobi.com.br" target="_blank">
                             TESTE GRÁTIS!
-                        </button>
+                        </a>
                     </div>
                 </div>
 

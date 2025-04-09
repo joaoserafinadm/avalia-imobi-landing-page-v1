@@ -28,9 +28,9 @@ export default function Page01() {
                                 </h4>
                             </div>
                             <div className="col-12">
-                                <button className={`${styles.outlineButton} border-rounded bg-white`}>
+                                <a className={`${styles.outlineButton} border-rounded bg-white`} href="https://app.avaliaimobi.com.br" target="_blank" >
                                     ACESSAR PLATAFORMA
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </div>
