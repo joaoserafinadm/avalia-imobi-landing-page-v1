@@ -36,7 +36,7 @@ export default function Page06() {
                                         de teste gratuita!</h4>
                                 </div>
                                 <div className="col-12">
-                                    <a href="https://app.avaliaimobi.com.br" target="_blank" className={`${styles.outlineButton} border-rounded bg-white` }>
+                                    <a href="https://app.avaliaimobi.com.br" target="_blank" className={`${styles.outlineButton} border-rounded bg-white`}>
                                         ACESSAR PLATAFORMA
                                     </a>
                                 </div>
@@ -53,8 +53,13 @@ export default function Page06() {
                             <img src="/LOGO_04.png" alt="" style={{ width: '60%' }} />
                         </div>
                         <div className="col-12 col-lg-11 d-flex justify-content-center align-items-start mt-3">
-                            <img src="/SOCIAL_INSTAGRAM.png" alt="" className='mx-2 scaleAnimation' />
+                            <a href="https://www.instagram.com/avaliaimobi/?igsh=dG1mNWFsYnU5ODM1#" target="_blank">
+                                <img src="/SOCIAL_INSTAGRAM.png" alt="" className='mx-2 scaleAnimation' />
+                            </a>
+                            <a href="https://www.facebook.com/avalia.imobi/" target="_blank">
+
                             <img src="/SOCIAL_FACEBOOK.png" alt="" className='mx-2 scaleAnimation' />
+                            </a>
                         </div>
                     </div>
 
