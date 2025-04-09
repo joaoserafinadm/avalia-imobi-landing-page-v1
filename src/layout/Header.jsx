@@ -63,7 +63,7 @@ export default function Header() {
                                     }}>Benefícios</a>
                                 </li>
                                 <li className="nav-item ms-3">
-                                    <a className="outlineButton" href="/app">
+                                    <a className="outlineButton" href="https://app.avaliaimobi.com.br">
                                         Acessar App
                                     </a>
                                 </li>
