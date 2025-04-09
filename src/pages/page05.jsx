@@ -17,7 +17,7 @@ export default function Page05() {
                                 <img src="/USER_01.png" alt="" style={{ width: '100%' }} />
                             </div>
                             <div className="col-10 col-md-8  my-3 ">
-                                <h4 className='fw-italic'>
+                                <h4 className=' fst-italic'>
                                     “O <b>Avalia Imobi</b> transformou a forma
                                     como faço avaliações. Agora posso
                                     oferecer valores <b>precisos</b> e em <b>tempo
@@ -42,7 +42,7 @@ export default function Page05() {
                                 <img src="/USER_02.png" alt="" style={{ width: '100%' }} />
                             </div>
                             <div className="col-10 col-md-8  my-3 ">
-                                <h4 className='fw-italic'>
+                                <h4 className=' fst-italic'>
                                     “Com o <b>Avalia Imobi</b>, meus clientes
                                     conseguem cadastrar seus próprios
                                     imóveis com <b>facilidade</b>. Isso <b>economiza
