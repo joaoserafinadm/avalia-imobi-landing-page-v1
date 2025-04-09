@@ -4,6 +4,12 @@ export default function Document() {
   return (
     <Html lang="en" >
       <Head >
+
+        <title>Avaliação do imóvel</title>
+        <meta property="og:title" content="Avaliação do imóvel" />
+        <meta property="og:description" content="Avaliação do seu imóvel está pronta!" />
+        <meta property="og:image" content="https://res.cloudinary.com/joaoserafinadm/image/upload/v1694998829/AVALIA%20IMOBI/LOGOS/LOGO_02_wkzqga.png" />
+
         {/* Facebook Pixel */}
         <script
           dangerouslySetInnerHTML={{
