@@ -5,10 +5,10 @@ export default function Document() {
     <Html lang="en" >
       <Head >
 
-        <title>Avaliação do imóvel</title>
-        <meta property="og:title" content="Avaliação do imóvel" />
-        <meta property="og:description" content="Avaliação do seu imóvel está pronta!" />
-        <meta property="og:image" content="https://res.cloudinary.com/joaoserafinadm/image/upload/v1694998829/AVALIA%20IMOBI/LOGOS/LOGO_02_wkzqga.png" />
+        <title>Avalia Imobi</title>
+        <meta property="og:title" content="Avalia Imobi" />
+        <meta property="og:description" content="Aplicativo para avaliação de imóveis" />
+        {/* <meta property="og:image" content="https://res.cloudinary.com/joaoserafinadm/image/upload/v1694998829/AVALIA%20IMOBI/LOGOS/LOGO_02_wkzqga.png" /> */}
 
         {/* Facebook Pixel */}
         <script
