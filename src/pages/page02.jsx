@@ -5,7 +5,7 @@ export default function Page02() {
 
 
     return (
-        <div className={`row  ${styles.secondPage} py-5 m-lg-5 m-1`}>
+        <div className={`row  ${styles.secondPage} py-5 m-lg-5 m-1`} id='sobre'>
 
 
             <div className="col-12 col-lg-6 d-flex justify-content-center align-items-start my-5">

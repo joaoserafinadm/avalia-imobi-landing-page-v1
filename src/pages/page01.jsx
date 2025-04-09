@@ -5,7 +5,7 @@ export default function Page01() {
 
 
     return (
-        <div className={`row text-light  ${styles.firstPage} py-5`}>
+        <div className={`row text-light  ${styles.firstPage} py-5`} id='home'>
 
 
             <div className="col-12 col-lg-6 d-flex justify-content-center align-items-center my-5">

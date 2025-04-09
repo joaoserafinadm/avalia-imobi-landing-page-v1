@@ -5,7 +5,7 @@ export default function Page03() {
 
 
     return (
-        <div className={`row d-flex justify-content-center ${styles.thirdPage} py-5`}>
+        <div className={`row d-flex justify-content-center ${styles.thirdPage} py-5`} id='funcionalidades'>
 
 
 

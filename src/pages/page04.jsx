@@ -5,7 +5,7 @@ export default function Page04() {
 
 
     return (
-        <div className={`row  py-5 m-lg-5 m-1`}>
+        <div className={`row  py-5 m-lg-5 m-1`} id='beneficios'>
 
 
             <div className="col-12 col-lg-6 d-flex justify-content-center align-items-start my-5">

@@ -11,6 +11,7 @@ import Page03 from "@/src/pages/page03";
 import Page04 from "@/src/pages/page04";
 import Page05 from "@/src/pages/page05";
 import Page06 from "@/src/pages/page06";
+import Header from "@/src/layout/Header";
 
 
 export default function Home() {
@@ -28,6 +29,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Header/>
       <Page01 />
       <Page02 />
       <Page03 />
